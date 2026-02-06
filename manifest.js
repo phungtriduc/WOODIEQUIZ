@@ -13,6 +13,7 @@ const DATABASE_FILES = [
     'CIE6TW6.js',
     'questiontest.js',
     'nguvan6.js',
+    'toan6.js',
 
  // Thêm các tệp .js database khác của bạn ở đây
 ];
@@ -24,6 +25,7 @@ DATABASE_FILES.forEach(filePath => {
 });
 
 // (Đã xóa dấu '}' bị thừa từ đây)
+
 
 
 
